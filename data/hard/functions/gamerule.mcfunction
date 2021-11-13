@@ -1,0 +1,2 @@
+gamerule naturalRegeneration false
+difficulty hard

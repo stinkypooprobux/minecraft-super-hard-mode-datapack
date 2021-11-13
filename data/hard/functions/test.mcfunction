@@ -1,0 +1,1 @@
+tellraw @p {"text":"Success!","color":"aqua"}

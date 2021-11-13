@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "minecraft:frosted_ice",
+    "minecraft:grass_block",
+    "minecraft:end_stone",
+    "minecraft:netherrack"
+  ]
+}
